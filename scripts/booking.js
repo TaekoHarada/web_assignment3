@@ -6,7 +6,7 @@
 // >>> When the elements are clicked.
 
 // Set day names for the use of days_element and the other part
-days = ["monday", "tuesday", "wednesday", "thursday", "friday"];
+var days = ["monday", "tuesday", "wednesday", "thursday", "friday"];
 
 // Initialize days elements
 var days_elements = []; //array for dats elements
